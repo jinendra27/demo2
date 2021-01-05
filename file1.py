@@ -1,3 +1,6 @@
 print("hi")
 print('hello')
 print('welcome')
+print('how are you demo2')
+print('how are you demo3')
+print('how are you demo4')
